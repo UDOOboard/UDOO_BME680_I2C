@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/harlem88/work/udoo/workspace_c/UDOO_BME680_I2C/lib/DFRobot_BME680.h
+stdint.h
+-
+
+/home/harlem88/work/udoo/workspace_c/UDOO_BME680_I2C/lib/DFRobot_BME680_I2C.h
+stdint.h
+-
+DFRobot_BME680.h
+/home/harlem88/work/udoo/workspace_c/UDOO_BME680_I2C/lib/DFRobot_BME680.h
+
+/home/harlem88/work/udoo/workspace_c/UDOO_BME680_I2C/main.cpp
+iostream
+-
+linux/i2c-dev.h
+-
+fcntl.h
+-
+cstring
+-
+zconf.h
+-
+lib/DFRobot_BME680.h
+/home/harlem88/work/udoo/workspace_c/UDOO_BME680_I2C/lib/DFRobot_BME680.h
+lib/DFRobot_BME680_I2C.h
+/home/harlem88/work/udoo/workspace_c/UDOO_BME680_I2C/lib/DFRobot_BME680_I2C.h
+

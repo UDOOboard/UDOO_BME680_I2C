@@ -1,0 +1,4 @@
+/home/harlem88/clion-2017.2.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/harlem88/work/udoo/workspace_c/UDOO_BME680_I2C
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/harlem88/work/udoo/workspace_c/UDOO_BME680_I2C/cmake-build-debug

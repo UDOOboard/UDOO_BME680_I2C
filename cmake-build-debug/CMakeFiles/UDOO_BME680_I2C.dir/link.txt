@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/UDOO_BME680_I2C.dir/main.cpp.o  -o UDOO_BME680_I2C 
